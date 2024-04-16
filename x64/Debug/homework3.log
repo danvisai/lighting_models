@@ -1,0 +1,5 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (Lab 1.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Scene.cpp
+C:\Users\danvi\OneDrive - purdue.edu\Desktop\purdue\521\labs\CGT 521 Spring 2024\homework3\Scene.cpp(95,39): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\danvi\OneDrive - purdue.edu\Desktop\purdue\521\labs\CGT 521 Spring 2024\homework3\Scene.cpp(96,39): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+  homework3.vcxproj -> C:\Users\danvi\OneDrive - purdue.edu\Desktop\purdue\521\labs\CGT 521 Spring 2024\x64\Debug\homework3.exe

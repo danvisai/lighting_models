@@ -1,0 +1,19 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (Lab 1.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Scene.cpp
+C:\Users\danvi\OneDrive - purdue.edu\Desktop\purdue\521\labs\CGT 521 Spring 2024\final-lighting\Scene.cpp(48,33): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\danvi\OneDrive - purdue.edu\Desktop\purdue\521\labs\CGT 521 Spring 2024\final-lighting\Scene.cpp(49,33): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\danvi\OneDrive - purdue.edu\Desktop\purdue\521\labs\CGT 521 Spring 2024\final-lighting\Scene.cpp(62,17): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\danvi\OneDrive - purdue.edu\Desktop\purdue\521\labs\CGT 521 Spring 2024\final-lighting\Scene.cpp(63,17): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\danvi\OneDrive - purdue.edu\Desktop\purdue\521\labs\CGT 521 Spring 2024\final-lighting\Scene.cpp(113,39): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\danvi\OneDrive - purdue.edu\Desktop\purdue\521\labs\CGT 521 Spring 2024\final-lighting\Scene.cpp(114,39): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\danvi\OneDrive - purdue.edu\Desktop\purdue\521\labs\CGT 521 Spring 2024\final-lighting\Scene.cpp(120,39): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\danvi\OneDrive - purdue.edu\Desktop\purdue\521\labs\CGT 521 Spring 2024\final-lighting\Scene.cpp(121,39): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+  lightingmodels.vcxproj -> C:\Users\danvi\OneDrive - purdue.edu\Desktop\purdue\521\labs\CGT 521 Spring 2024\x64\Debug\lightingmodels.exe
